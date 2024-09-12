@@ -1,4 +1,9 @@
 # palmweboseclipseplugin
+
+**NOTE!: The plugins are now archived by [webOS Archive](https://github.com/webosarchive)** The update site is now http://sdk.webosarchive.org/EclipsePlugin/site.xml, [See the files](https://github.com/webOSArchive/webos-sdk-archive/tree/main/EclipsePlugin)
+
+**This repo will be still avaliable in case something happens to the webOS Archive Servers**
+
 This repo contains the old plugins provided by HP/Palm for legacy webOS Development on Eclipse IDEs,
 The correct Eclipse IDE for it is the Eclipse IDE for Javascript Web Developers
 
