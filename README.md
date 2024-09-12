@@ -8,6 +8,8 @@ The correct Eclipse IDE for it is the Eclipse IDE for Javascript Web Developers,
 2. After you unzip the Eclipse zip file that you downloaded, open Eclipse and put a workspace location when asked
 3. To install the plugins, go to Help -> Install New Software, then go to the Location field, put this url https://raw.githubusercontent.com/DavidModPhone/palmweboseclipseplugin/main/site.xml, select the Palm webOS SDK Group, accept the Terms and Conditions, install the plugins and restart Eclipse when prompted
 4. After the install, to get the webOS Eclipse Interface go to Window -> Open Perspective -> Other... -> webOS and you are ready to go!
+
+
 ![windowOption](https://raw.githubusercontent.com/DavidModPhone/palmweboseclipseplugin/main/readmeimgs/windowperspective1.png)
 ![windowOption2](https://raw.githubusercontent.com/DavidModPhone/palmweboseclipseplugin/main/readmeimgs/windowperspective2.png)
 
