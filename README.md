@@ -12,4 +12,4 @@ The correct Eclipse IDE for it is the Eclipse IDE for Javascript Web Developers,
 **Have fun playing with the plugins!**
 
 ## Purpose of this repo
-All of the things this Repo does is to archive an old Eclipse Plugin that Palm/HP made for developing webOS Apps Much easier on Eclipse IDEs, no copyright infrigement nor commercial purposes is intented, this is only meant to archive the plugins.
+All of the things this Repo does is to archive an old Eclipse Plugin that Palm/HP made for developing webOS Apps Much easier on Eclipse IDEs, no copyright infringement nor commercial purposes is intented, this is only meant to archive the plugins.
