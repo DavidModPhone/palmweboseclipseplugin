@@ -1,4 +1,9 @@
 # palmweboseclipseplugin
+
+**NOTE!: The plugins are now archived by [webOS Archive](https://github.com/webosarchive)** The update site is now http://sdk.webosarchive.org/EclipsePlugin/site.xml, [See the files](https://github.com/webOSArchive/webos-sdk-archive/tree/main/EclipsePlugin)
+
+**This repo will be still avaliable in case something happens to the webOS Archive Servers**
+
 This repo contains the old plugins provided by HP/Palm for legacy webOS Development on Eclipse IDEs,
 The correct Eclipse IDE for it is the Eclipse IDE for Javascript Web Developers
 
@@ -29,7 +34,7 @@ The correct Eclipse IDE for it is the Eclipse IDE for Javascript Web Developers
 
 
 ---
-2. If you want to import your palm webOS app projects, go on your project folder, create a new file named .project, then open any text or code editor and put this piece of code
+2. If you want to import your existing palm webOS app projects, go on your app project folder, create a new file named ".project", then open any text or code editor and put this piece of code
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
